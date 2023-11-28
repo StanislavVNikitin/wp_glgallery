@@ -1,0 +1,11 @@
+.glgallery-actions {
+    display: flex;
+}
+
+.glgallery-actions a.button {
+    margin-right: 5px;
+}
+
+.glgallery-actions .dashicons, .glgallery-actions .dashicons-before::before {
+    vertical-align: middle;
+}

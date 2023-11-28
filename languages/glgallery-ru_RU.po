@@ -1,0 +1,93 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-11-28 12:41+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: glstusy\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-glgallery-admin.php:14 admin/class-glgallery-admin.php:37
+msgid "Error!"
+msgstr "Ошибка"
+
+#: admin/class-glgallery-admin.php:19
+msgid "Gallery deleted successfully"
+msgstr "Галерея успешно удалена"
+
+#: admin/class-glgallery-admin.php:21
+msgid "Error deleted gallery"
+msgstr "Ошибка удаления галареи"
+
+#: admin/class-glgallery-admin.php:45 admin/class-glgallery-admin.php:70
+msgid "Add images to gallery"
+msgstr "Добавить изображение в галерею"
+
+#: admin/class-glgallery-admin.php:65
+msgid "Gallery saved"
+msgstr ""
+"Гале\n"
+"рея сохранена"
+
+#: admin/class-glgallery-admin.php:67
+msgid "Error saved gallery"
+msgstr "Не удалось сохранить галерею"
+
+#: admin/class-glgallery-admin.php:79 admin/class-glgallery-admin.php:80
+msgid "GL Gallery Main"
+msgstr "GL Gallery Главная"
+
+#: admin/class-glgallery-admin.php:79
+msgid "GL Gallery"
+msgstr "GL Gallery"
+
+#: admin/class-glgallery-admin.php:80
+msgid "Galleries List"
+msgstr "Список галерей"
+
+#: admin/class-glgallery-admin.php:81 admin/templates/addgallery-template.php:3
+msgid "Add Gallery"
+msgstr "Добавить галарею"
+
+#: admin/templates/addgallery-template.php:52
+msgid "Save gallery"
+msgstr "Сохранить галарею"
+
+#: admin/templates/main-page-template.php:3
+msgid "Galleries List Page"
+msgstr "Страница со списком галерей"
+
+#: admin/templates/main-page-template.php:53
+#: admin/templates/main-page-template.php:63
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: admin/templates/main-page-template.php:55
+#: admin/templates/main-page-template.php:69
+msgid "Actions"
+msgstr "Дествие"
+
+#: admin/templates/main-page-template.php:65
+msgid "Show more details"
+msgstr "Показать подробнее"
+
+#: admin/templates/main-page-template.php:102
+msgid "No entries found"
+msgstr "Записи не найдены"
